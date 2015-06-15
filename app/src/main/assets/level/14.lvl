@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="720" height="1200" counter="3">	
+	<entity x="360" y="200" power="0" directionX="0" directionY="0" type="greenball"/>
+	
+	<entity x="150" y="610" power="0" directionX="1" directionY="0" type="blueball"/>
+	<entity x="570" y="610" power="0" directionX="1" directionY="1" type="blueball"/>
+	<entity x="360" y="810" power="0" directionX="-1" directionY="-1" type="blueball"/>
+	<entity x="360" y="750" power="0" directionX="0" directionY="0" type="log"/>
+	<entity x="120" y="550" power="45" directionX="0" directionY="0" type="log"/>
+	<entity x="600" y="550" power="135" directionX="0" directionY="0" type="log"/>
+	<entity x="360" y="1000" power="0" directionX="1" directionY="-1" type="redball"/>
+	
+
+
+	
+</level>

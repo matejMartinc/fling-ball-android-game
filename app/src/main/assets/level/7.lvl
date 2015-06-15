@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="720" height="1200" counter="4">	
+	<entity x="360" y="200" power="0" directionX="0" directionY="0" type="greenball"/>
+	
+	<entity x="120" y="600" power="0" directionX="1" directionY="0" type="blueball"/>
+	<entity x="120" y="1000" power="0" directionX="1" directionY="1" type="blueball"/>
+	<entity x="600" y="600" power="0" directionX="-1" directionY="-1" type="blueball"/>
+	<entity x="600" y="1000" power="0" directionX="-1" directionY="-1" type="blueball"/>
+	
+	<entity x="120" y="800" power="0" directionX="0" directionY="0" type="log"/>
+	<entity x="83" y="847" power="132" directionX="0" directionY="0" type="log"/>
+	<entity x="157" y="847" power="48" directionX="0" directionY="0" type="log"/>
+	
+	<entity x="600" y="800" power="0" directionX="0" directionY="0" type="log"/>
+	<entity x="563" y="847" power="132" directionX="0" directionY="0" type="log"/>
+	<entity x="637" y="847" power="48" directionX="0" directionY="0" type="log"/>
+	
+	<entity x="360" y="1000" power="0" directionX="0" directionY="0" type="log"/>
+	<entity x="323" y="1047" power="132" directionX="0" directionY="0" type="log"/>
+	<entity x="397" y="1047" power="48" directionX="0" directionY="0" type="log"/>
+	
+	<entity x="360" y="600" power="0" directionX="1" directionY="-1" type="redball"/>
+	
+
+</level>

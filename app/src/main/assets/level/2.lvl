@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="720" height="1200" counter="3">	
+	<entity x="360" y="200" power="0" directionX="0" directionY="0" type="greenball"/>
+	<entity x="120" y="600" power="0" directionX="1" directionY="0" type="blueball"/>
+	<entity x="360" y="500" power="0" directionX="1" directionY="1" type="blueball"/>
+	<entity x="600" y="600" power="0" directionX="-1" directionY="-1" type="blueball"/>
+	<entity x="360" y="800" power="0" directionX="1" directionY="-1" type="redball"/>
+	
+</level>
